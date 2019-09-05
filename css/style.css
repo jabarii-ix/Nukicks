@@ -1,0 +1,163 @@
+body{
+    margin:0;
+    font-family: 'Raleway';
+    line-height: 1.6em;
+    font-size: 16px;
+}
+
+.container{
+    width:80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+/* header{
+    background-color:
+} */
+
+img{
+    width: 200
+}
+
+nav{
+    float: right;
+    padding: 0;
+    margin-top: 20px;
+}
+
+#nav li{
+    display: inline;
+    padding-right: 25px;
+}
+
+#nav li a{
+    text-decoration: none;
+    color:rebeccapurple;
+    font-weight: 600;
+}
+#nav li a{
+    color:#666;
+}
+#nav li a:hover{
+    color:#B20066;
+}
+
+.btn2{
+    background: #B20066;
+    color: #fff;
+    height: 25px;
+    width: 120px;
+    border-radius: 15px;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: 'Raleway'
+}
+
+
+
+#showcase{
+    min-height: 400px;
+    margin-top: 50px;
+
+}
+#landing-text{
+    width: 58%;
+    float: left;
+    margin-top: 40px;
+}
+#landing-text h2{
+    color: #B20066;
+}
+#landing-image{
+    width:42%;
+    float: right;
+}
+
+.btn{
+    background: #B20066;
+    color: #fff;
+    width:30%;
+    height: 35px;
+    border-radius: 25px;
+    border: none;
+    font-size: 17px;
+    cursor: pointer;
+    
+}
+
+#showcase2{
+    min-height: 300px;
+    margin-bottom: 30px;
+    background-color: #3A4162;
+
+}
+#landing-text{
+    width: 58%;
+    float: left;
+    margin-top: 40px;
+}
+#landing-text h2{
+    color: #B20066;
+}
+#landing-image{
+    width:42%;
+    float: right;
+}
+
+
+#show1{
+    width: 42%;
+    float: left;
+    /* margin-top: 40px; */
+}
+#show2{
+    width: 58%;
+    float: left;
+    margin-top: 40px;
+}
+#show2{
+    color: #fff;
+    text-align: right;
+}
+
+
+
+
+
+
+#showcase3{
+    min-height: 400px;
+    margin-top: 50px;
+
+}
+#landing-text{
+    width: 50%;
+    float: left;
+    margin-top: 40px;
+}
+#landing-text h2{
+    color: #B20066;
+}
+#landing-image{
+    width:50%;
+    float: right;
+}
+
+.btn{
+    background: #B20066;
+    color: #fff;
+    width:30%;
+    height: 35px;
+    border-radius: 25px;
+    border: none;
+    font-size: 17px;
+    cursor: pointer;
+    
+}
+
+#footer{
+    background-color: #3A4162;
+    color: #fff;
+    text-align: center;
+}
